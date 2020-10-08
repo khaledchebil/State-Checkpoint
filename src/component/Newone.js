@@ -10,7 +10,7 @@ class Newone extends React.Component {
          bio: 'This is your bio',
          imgSrc:  require( "../pic1.jpg" ),
            };
-        showIt = this.showIt.bind(this)
+        // showIt = this.showIt.bind(this)
             
 
         showIt() {
